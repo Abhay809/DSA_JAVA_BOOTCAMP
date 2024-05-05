@@ -1,32 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="" />
+    <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dsa with Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/Functions and methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/Shadowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/String_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/change_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/function_overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/sum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions and methods/src/variable_length_argument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2fffEjCD9QrThVqbReinbYED7ul" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/Dsa with Java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculator.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CaseCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shadowing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.change_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.function_overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variable_length_argument.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/Dsa with Java/Functions and methods/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.scope">
+    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greeting" />
+      <module name="Functions and methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions" />
+      <module name="Functions and methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function_overloading" />
+      <module name="Functions and methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scope" />
+      <module name="Functions and methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variable_length_argument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable_length_argument" />
+      <module name="Functions and methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.scope" />
+        <item itemvalue="Application.Greeting" />
+        <item itemvalue="Application.function_overloading" />
+        <item itemvalue="Application.Questions" />
+        <item itemvalue="Application.variable_length_argument" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,8 +151,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/Conditionals.java</url>
+          <line>47</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
