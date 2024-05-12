@@ -3,7 +3,7 @@ import java.util.Arrays;
 // Arrays are mutable in java
 // mutable means = you can change the object
 
-public class a3passing_in_functions {
+public class a3_passing_in_functions {
     public static void main(String[] args) {
         int[] nums = {3,4,5,6};
         System.out.println(Arrays.toString(nums));

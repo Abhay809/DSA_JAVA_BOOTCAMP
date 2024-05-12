@@ -1,3 +1,4 @@
+//*
 public class CountNums {
     public static void main(String[] args) {
         // Q : Count how much times 5 is in the given number

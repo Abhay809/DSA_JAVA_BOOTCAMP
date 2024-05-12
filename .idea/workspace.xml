@@ -5,11 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment_solution/practise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a1_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a2_input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a3_passing_in_functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a4_multiple_dimension_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a5_column_not_fixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a6_array_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a7_multiple_array_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Binary_Search/Binary_Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Binary_Search/src/a1_binary_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Binary_Search/src/a2_order_agnostic_binary_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/7_Binary_Search_Interview_Questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a1_ceiling_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a2_floor_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a3_smallest_letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a4_first_and_last_position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_solution/Assignment5_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Search/Linear_Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a1_Linear_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a2_search_in_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a3_search_in_range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a4_find_minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a6_search_in_2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a7_even_digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a8_max_wealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions and methods/src/Functions and methods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/Arrays and array list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Arrays and Array_List/1_Arrays and Array_List.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/a1_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/a2Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/a3passing_in_functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/a4Multi_dimension_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/a5Column_not_fixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/a6Array_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/a7Multiple_Array_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and array list/practise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions and methods/src/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions and methods/src/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/Questions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions and methods/src/Shadowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/Shadowing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions and methods/src/function_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/function_overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +68,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Abhay809"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abhay809&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Abhay809/DSA_JAVA_BOOTCAMP.git",
-    "accountId": "8df3a763-732f-4df0-9e8a-9d36436aaa8d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Abhay809/DSA_JAVA_BOOTCAMP.git&quot;,
+    &quot;accountId&quot;: &quot;8df3a763-732f-4df0-9e8a-9d36436aaa8d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -49,47 +91,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Calculator.executor": "Debug",
-    "Application.CaseCheck.executor": "Run",
-    "Application.Conditionals.executor": "Run",
-    "Application.CountNums.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.Greeting.executor": "Run",
-    "Application.Largest.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Questions.executor": "Run",
-    "Application.Reverse.executor": "Run",
-    "Application.Shadowing.executor": "Run",
-    "Application.String_example.executor": "Run",
-    "Application.Swap.executor": "Run",
-    "Application.change_value.executor": "Run",
-    "Application.function_overloading.executor": "Run",
-    "Application.practise.executor": "Run",
-    "Application.scope.executor": "Run",
-    "Application.sum.executor": "Run",
-    "Application.sum2.executor": "Run",
-    "Application.variable_length_argument.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/Dsa with Java/Functions and methods/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CaseCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shadowing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_Linear_search (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_Linear_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_ceiling_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_floor_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_order_agnostic_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_search_in_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_search_in_range.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a4_find_minimum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_search_in_2Darray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a7_even_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a8_max_wealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ceiling_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.change_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.function_overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variable_length_argument.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/Dsa with Java/7_Binary_Search_Interview_Questions/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.practise">
-    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greeting" />
-      <module name="Functions and methods" />
+}</component>
+  <component name="RunManager" selected="Application.scope">
+    <configuration name="CaseCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseCheck" />
+      <module name="Dsa with Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions" />
-      <module name="Functions and methods" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops" />
+      <module name="Dsa with Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a2_floor_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2_floor_number" />
+      <module name="7_Binary_Search_Interview_Questions" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,13 +160,6 @@
     <configuration name="function_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="function_overloading" />
       <module name="Functions and methods" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise" />
-      <module name="Dsa with Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practise" />
         <item itemvalue="Application.scope" />
-        <item itemvalue="Application.Greeting" />
         <item itemvalue="Application.function_overloading" />
-        <item itemvalue="Application.Questions" />
+        <item itemvalue="Application.CaseCheck" />
+        <item itemvalue="Application.Loops" />
+        <item itemvalue="Application.a2_floor_number" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +191,9 @@
       <updated>1714196947497</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

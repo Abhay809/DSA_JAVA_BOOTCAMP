@@ -5,7 +5,7 @@ import java.util.Scanner;
 // Array List = when you don't know how much size you want
 // Amortised time complexity it has 0(1)
 // [1,2,3] it will double the size [1,2,3,4, , ]
-public class a6Array_List {
+public class a6_array_list {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         ArrayList<Integer> list = new ArrayList<>(10);

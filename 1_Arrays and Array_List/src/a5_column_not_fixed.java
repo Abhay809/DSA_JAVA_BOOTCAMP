@@ -1,4 +1,4 @@
-public class a5Column_not_fixed {
+public class a5_column_not_fixed {
     public static void main(String[] args) {
         int[][] arr = {
                 {1,2,3,4},

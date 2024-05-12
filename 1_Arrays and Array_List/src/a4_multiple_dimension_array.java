@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class a4Multi_dimension_array {
+public class a4_multiple_dimension_array {
     public static void main(String[] args) {
         /*
         1 2 3

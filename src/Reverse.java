@@ -1,3 +1,4 @@
+//*
 public class Reverse {
     public static void main(String[] args) {
         // Q: print the reverse of a number

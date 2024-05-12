@@ -1,3 +1,4 @@
+//*
 // shadowing in java basically means a practise of using two variables with the same name within the scope that overlaps
 public class Shadowing {
     static int x = 90;   // this will be shadow at line 9

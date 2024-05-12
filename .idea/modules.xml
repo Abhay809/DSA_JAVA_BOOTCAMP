@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Arrays and Array_List/1_Arrays and Array_List.iml" filepath="$PROJECT_DIR$/1_Arrays and Array_List/1_Arrays and Array_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_Binary_Search_Interview_Questions/7_Binary_Search_Interview_Questions.iml" filepath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/7_Binary_Search_Interview_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/6_Binary_Search/Binary_Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dsa with Java.iml" filepath="$PROJECT_DIR$/Dsa with Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions and methods/Functions and methods.iml" filepath="$PROJECT_DIR$/Functions and methods/Functions and methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear_Search/Linear_Search.iml" filepath="$PROJECT_DIR$/Linear_Search/Linear_Search.iml" />
     </modules>
   </component>
 </project>

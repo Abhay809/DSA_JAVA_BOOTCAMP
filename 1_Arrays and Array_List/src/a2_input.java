@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class a2Input {
+public class a2_input {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
