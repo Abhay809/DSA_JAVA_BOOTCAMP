@@ -5,3 +5,5 @@ public class a4_first_and_last_position {
         //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1254425023/
     }
 }
+
+// *

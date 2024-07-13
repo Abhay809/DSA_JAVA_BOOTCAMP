@@ -28,3 +28,28 @@ public class a1_ceiling_number {
         return start;
     }
 }
+
+// arr {1,2,3,4,67,89}
+// target = 5;
+//public class a1_ceiling_number{
+//    public static void main(String[] ar){
+//        int[] arr = {1,2,3,4,67,89};
+//        int target = 5;
+//        System.out.println(ceiling(arr,target));
+//    }
+//    static int ceiling(int[] arr, int target){
+//        int start =0;
+//        int end = arr.length-1;
+//        while(start<=end){
+//            int mid = start+(end-start)/2;
+//            if(target<mid){
+//                end = mid-1;
+//            }else if(target>mid){
+//                start = mid+1;
+//            }else{
+//                return mid;
+//            }
+//        }
+//        return start;
+//    }
+//}

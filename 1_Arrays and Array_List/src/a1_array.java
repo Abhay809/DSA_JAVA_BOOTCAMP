@@ -14,19 +14,19 @@ public class a1_array {
         String[] arr = new String[4];
         System.out.println(arr[0]);
 
-//        for(String element: arr){
-//            System.out.println(element);
-//        }
+        for(String element: arr){
+            System.out.println(element);
+        }
 
         // null a = something;  // not  possible
         // String str = null;  // possible because String is a non primitive data type and null can be assigned
-        // int num = null;     // Not possible because int is a primitive data type
+// int num = null;     // Not possible because int is a primitive data type
 
-        // In python there are no primitives
-        // In java
-        // primitives are stored in the stack memory
-        // all the objects , array type, string type or whatever , they are stored in heap memory
-        // primitives are (that cannot be broken down) int,char,float, boolean
-        // Non primitives (that can be broken down) String, arrays, other complex data types
+// In python there are no primitives
+// In java
+// primitives are stored in the stack memory
+// all the objects , array type, string type or whatever , they are stored in heap memory
+// primitives are (that cannot be broken down) int,char,float, boolean
+// Non primitives (that can be broken down) String, arrays, other complex data types
     }
-}
+            }

@@ -25,13 +25,13 @@ public class a2_order_agnostic_binary_search {
             // same condition for ascending and descending
             if(target == arr[mid])
                 return mid;
-            if(isAsc){
+            if(isAsc){   // this is for a increasing order array
                 if(target<arr[mid])
                     end = mid -1;
                 else{
                     start = mid +1;
                 }
-            }else{
+            }else{    // this is for a decreasing order array
                 if(target<arr[mid])
                     start = mid+1;
                 else{

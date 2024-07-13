@@ -4,54 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a1_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a2_input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a3_passing_in_functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a4_multiple_dimension_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a5_column_not_fixed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a6_array_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a7_multiple_array_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Binary_Search/Binary_Search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Binary_Search/src/a1_binary_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Binary_Search/src/a2_order_agnostic_binary_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/7_Binary_Search_Interview_Questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a1_ceiling_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a2_floor_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a3_smallest_letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a4_first_and_last_position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_solution/Assignment5_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/Linear_Search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a1_Linear_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a2_search_in_strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a3_search_in_range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a4_find_minimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a6_search_in_2Darray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a7_even_digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/src/a8_max_wealth.java" afterDir="false" />
+    <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="Sorting Algorithms">
+      <change afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Strings/9_Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Strings/src/a1_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Strings/src/a2_Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Strings/src/a3_Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/Practise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/a6_find_all_missing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/a7_find_duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/a8_find_all_duplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/Arrays and array list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Arrays and Array_List/1_Arrays and Array_List.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/a1_array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/a2Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/a3passing_in_functions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/a4Multi_dimension_array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/a5Column_not_fixed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/a6Array_List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/a7Multiple_Array_List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and array list/practise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions and methods/src/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions and methods/src/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/Questions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions and methods/src/Shadowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/Shadowing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions and methods/src/function_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/function_overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Arrays and Array_List/src/a1_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a1_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Arrays and Array_List/src/a2_input.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_Arrays and Array_List/src/a2_input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Binary_Search/src/a2_order_agnostic_binary_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Binary_Search/src/a2_order_agnostic_binary_search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a1_ceiling_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a1_ceiling_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a3_smallest_letter.java" beforeDir="false" afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a3_smallest_letter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a4_first_and_last_position.java" beforeDir="false" afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a4_first_and_last_position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_JAVA_BOOTCAMP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/src/a5_missing_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/src/a5_missing_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,93 +64,117 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CaseCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conditionals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountNums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Questions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shadowing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a1_Linear_search (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.a1_Linear_search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a1_binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a1_ceiling_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a2_floor_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a2_order_agnostic_binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a2_search_in_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a3_search_in_range.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a4_find_minimum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a6_search_in_2Darray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a7_even_digits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.a8_max_wealth.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ceiling_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.change_value.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function_overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.scope.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.variable_length_argument.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/Dsa with Java/7_Binary_Search_Interview_Questions/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Calculator.executor": "Debug",
+    "Application.CaseCheck.executor": "Run",
+    "Application.Conditionals.executor": "Run",
+    "Application.CountNums.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.Greeting.executor": "Run",
+    "Application.Largest.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Questions.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.RotationCount.executor": "Run",
+    "Application.RowColMatrix.executor": "Run",
+    "Application.Shadowing.executor": "Run",
+    "Application.Sorted_matrix.executor": "Run",
+    "Application.String_example.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.a10_RBS_duplicate_array.executor": "Run",
+    "Application.a13_RowColMatrix.executor": "Run",
+    "Application.a14_Sorted_matrix.executor": "Run",
+    "Application.a1_Bubble_Sort.executor": "Run",
+    "Application.a1_Linear_search (1).executor": "Run",
+    "Application.a1_Linear_search.executor": "Run",
+    "Application.a1_array.executor": "Run",
+    "Application.a1_binary_search.executor": "Run",
+    "Application.a1_ceiling_number.executor": "Run",
+    "Application.a1_main.executor": "Run",
+    "Application.a2_Comparison.executor": "Run",
+    "Application.a2_floor_number.executor": "Run",
+    "Application.a2_order_agnostic_binary_search.executor": "Run",
+    "Application.a2_search_in_strings.executor": "Run",
+    "Application.a2_selection_sort.executor": "Debug",
+    "Application.a3_Insertion_sort.executor": "Run",
+    "Application.a3_Output.executor": "Run",
+    "Application.a3_search_in_range.executor": "Run",
+    "Application.a3_smallest_letter.executor": "Run",
+    "Application.a4_cyclic_sort.executor": "Run",
+    "Application.a4_find_minimum.executor": "Run",
+    "Application.a5_missing_number.executor": "Run",
+    "Application.a6_array_list.executor": "Run",
+    "Application.a6_find_all_missing.executor": "Run",
+    "Application.a6_infinite_array.executor": "Run",
+    "Application.a6_num_disappeared_in_array.executor": "Run",
+    "Application.a6_search_in_2Darray.executor": "Run",
+    "Application.a7_even_digits.executor": "Run",
+    "Application.a7_find_duplicate.executor": "Run",
+    "Application.a8_max_wealth.executor": "Run",
+    "Application.a9_RBS.executor": "Run",
+    "Application.ceiling_number.executor": "Run",
+    "Application.change_value.executor": "Run",
+    "Application.function_overloading.executor": "Run",
+    "Application.infinite_array.executor": "Run",
+    "Application.practise.executor": "Run",
+    "Application.scope.executor": "Run",
+    "Application.sum.executor": "Run",
+    "Application.sum2.executor": "Run",
+    "Application.variable_length_argument.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/Dsa with Java/Practise/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.scope">
-    <configuration name="CaseCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaseCheck" />
-      <module name="Dsa with Java" />
+}]]></component>
+  <component name="RunManager" selected="Application.a3_Output">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Practise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops" />
-      <module name="Dsa with Java" />
+    <configuration name="a1_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a1_main" />
+      <module name="9_Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a2_floor_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a2_floor_number" />
-      <module name="7_Binary_Search_Interview_Questions" />
+    <configuration name="a2_Comparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2_Comparison" />
+      <module name="9_Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="function_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function_overloading" />
-      <module name="Functions and methods" />
+    <configuration name="a3_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a3_Output" />
+      <module name="9_Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scope" />
-      <module name="Functions and methods" />
+    <configuration name="a7_find_duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a7_find_duplicate" />
+      <module name="8_Sorting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.scope" />
-        <item itemvalue="Application.function_overloading" />
-        <item itemvalue="Application.CaseCheck" />
-        <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.a2_floor_number" />
+        <item itemvalue="Application.a3_Output" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.a1_main" />
+        <item itemvalue="Application.a2_Comparison" />
+        <item itemvalue="Application.a7_find_duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -190,10 +187,54 @@
       <option name="presentableId" value="Default" />
       <updated>1714196947497</updated>
     </task>
+    <task id="LOCAL-00001" summary="Important questions on binary search">
+      <option name="closed" value="true" />
+      <created>1715706426050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715706426050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Important questions on binary search">
+      <option name="closed" value="true" />
+      <created>1715869406479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715869406479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Important questions on binary search">
+      <option name="closed" value="true" />
+      <created>1716386462184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716386462184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sorting Algorithms">
+      <option name="closed" value="true" />
+      <created>1716523285839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716523285839</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Sorting Algorithms">
+      <option name="closed" value="true" />
+      <created>1716923673844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716923673844</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Important questions on binary search" />
+    <MESSAGE value="Sorting Algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorting Algorithms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -202,6 +243,16 @@
           <url>file://$PROJECT_DIR$/src/Conditionals.java</url>
           <line>47</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/6_Binary_Search/src/a2_order_agnostic_binary_search.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practise/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

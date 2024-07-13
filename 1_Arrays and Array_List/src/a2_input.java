@@ -9,7 +9,7 @@ public class a2_input {
 
 //        int[] arr = new int[5];
 //        arr[0] = 34;
-//        arr[1] = 435;
+//        arr[1] = 435;[5
 //        arr[2] = 45;
 //        arr[3] = 567;
 //        arr[4] = 56;
