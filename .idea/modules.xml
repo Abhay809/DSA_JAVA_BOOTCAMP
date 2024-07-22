@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_Patterns/10_Patterns.iml" filepath="$PROJECT_DIR$/10_Patterns/10_Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Arrays and Array_List/1_Arrays and Array_List.iml" filepath="$PROJECT_DIR$/1_Arrays and Array_List/1_Arrays and Array_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_Binary_Search_Interview_Questions/7_Binary_Search_Interview_Questions.iml" filepath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/7_Binary_Search_Interview_Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/8_Sorting.iml" filepath="$PROJECT_DIR$/Sorting/8_Sorting.iml" />
