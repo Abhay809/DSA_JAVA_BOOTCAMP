@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="Sorting Algorithms">
-      <change afterPath="$PROJECT_DIR$/10_Patterns/10_Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Patterns/src/a1_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Strings/src/a5_operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Strings/src/a6_performance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Strings/src/a7_SB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Strings/src/a8_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Strings/src/a9_palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Strings/src/placeholders_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_Strings/src/prettyprinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/9_Strings/src/a4_prettyprinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Patterns/src/a1_pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_Patterns/src/a1_pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,81 +46,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Calculator.executor": "Debug",
-    "Application.CaseCheck.executor": "Run",
-    "Application.Conditionals.executor": "Run",
-    "Application.CountNums.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.Greeting.executor": "Run",
-    "Application.Largest.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Questions.executor": "Run",
-    "Application.Reverse.executor": "Run",
-    "Application.RotationCount.executor": "Run",
-    "Application.RowColMatrix.executor": "Run",
-    "Application.Shadowing.executor": "Run",
-    "Application.Sorted_matrix.executor": "Run",
-    "Application.String_example.executor": "Run",
-    "Application.Swap.executor": "Run",
-    "Application.a10_RBS_duplicate_array.executor": "Run",
-    "Application.a13_RowColMatrix.executor": "Run",
-    "Application.a14_Sorted_matrix.executor": "Run",
-    "Application.a1_Bubble_Sort.executor": "Run",
-    "Application.a1_Linear_search (1).executor": "Run",
-    "Application.a1_Linear_search.executor": "Run",
-    "Application.a1_array.executor": "Run",
-    "Application.a1_binary_search.executor": "Run",
-    "Application.a1_ceiling_number.executor": "Run",
-    "Application.a1_main.executor": "Run",
-    "Application.a1_pattern.executor": "Run",
-    "Application.a2_Comparison.executor": "Run",
-    "Application.a2_floor_number.executor": "Run",
-    "Application.a2_order_agnostic_binary_search.executor": "Run",
-    "Application.a2_search_in_strings.executor": "Run",
-    "Application.a2_selection_sort.executor": "Debug",
-    "Application.a3_Insertion_sort.executor": "Run",
-    "Application.a3_Output.executor": "Run",
-    "Application.a3_search_in_range.executor": "Run",
-    "Application.a3_smallest_letter.executor": "Run",
-    "Application.a4_cyclic_sort.executor": "Run",
-    "Application.a4_find_minimum.executor": "Run",
-    "Application.a4_prettyprinting.executor": "Run",
-    "Application.a5_missing_number.executor": "Run",
-    "Application.a5_operators.executor": "Run",
-    "Application.a6_array_list.executor": "Run",
-    "Application.a6_find_all_missing.executor": "Run",
-    "Application.a6_infinite_array.executor": "Run",
-    "Application.a6_num_disappeared_in_array.executor": "Run",
-    "Application.a6_performance.executor": "Run",
-    "Application.a6_search_in_2Darray.executor": "Run",
-    "Application.a7_SB.executor": "Run",
-    "Application.a7_even_digits.executor": "Run",
-    "Application.a7_find_duplicate.executor": "Run",
-    "Application.a8_max_wealth.executor": "Run",
-    "Application.a8_methods.executor": "Run",
-    "Application.a9_RBS.executor": "Run",
-    "Application.a9_palindrome.executor": "Run",
-    "Application.ceiling_number.executor": "Run",
-    "Application.change_value.executor": "Run",
-    "Application.function_overloading.executor": "Run",
-    "Application.infinite_array.executor": "Run",
-    "Application.practise.executor": "Run",
-    "Application.scope.executor": "Run",
-    "Application.sum.executor": "Run",
-    "Application.sum2.executor": "Run",
-    "Application.variable_length_argument.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/Dsa with Java/10_Patterns/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CaseCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shadowing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorted_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a10_RBS_duplicate_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a13_RowColMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a14_Sorted_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_Bubble_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_Linear_search (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_Linear_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_ceiling_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_Comparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_floor_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_order_agnostic_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_search_in_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_selection_sort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.a3_Insertion_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_search_in_range.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_smallest_letter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a4_cyclic_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a4_find_minimum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a4_prettyprinting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a5_missing_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a5_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_array_list.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_find_all_missing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_infinite_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_num_disappeared_in_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_performance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_search_in_2Darray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a7_SB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a7_even_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a7_find_duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a8_max_wealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a8_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a9_RBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a9_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ceiling_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.change_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.function_overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.infinite_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variable_length_argument.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/Dsa with Java/10_Patterns/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.a1_pattern">
     <configuration name="a1_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a1_pattern" />
@@ -273,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720977957805</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Sorting Algorithms">
+      <option name="closed" value="true" />
+      <created>1721669436583</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721669436583</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -9,7 +9,9 @@ public class a1_pattern {
 //        pattern5(5);
 //        pattern28(5);
 //          pattern30(5);
-        patten17(5);
+//        pattern17(5);
+//        patternReverse31(4);
+        pattern31(4);
     }
 
 
@@ -17,7 +19,7 @@ public class a1_pattern {
     static void pattern1(int n){
         for(int row = 0; row <= n; row++){
             // for every row run the column
-            for(int col = 1; col <= n; col++){
+            for(int col = 0; col <= n; col++){
                 System.out.print("* ");
             }
             // when one row is printed, we need to add a newline
@@ -113,6 +115,30 @@ public class a1_pattern {
             }
             System.out.println();
         }
+    }
+
+    static void patternReverse31(int n){
+        n = 2*n;
+        for(int row = 0; row <= n; row++){
+            for(int col = 0; col <= n; col++){
+                int atEveryIndex = Math.min(Math.min(row,col),Math.min(n-row,n-col));
+                System.out.print(atEveryIndex+" ");
+            }
+            System.out.println();
+        }
+    }
+
+    static void pattern31(int n){
+        int originalN = n;
+        n = 2*n;
+        for(int row = 0; row <= n; row++){
+            for(int col = 0; col <= n; col++){
+                int atEveryIndex = originalN - Math.min(Math.min(row,col),Math.min(n-row,n-col));
+                System.out.print(atEveryIndex+" ");
+            }
+            System.out.println();
+        }
+
     }
 
 
