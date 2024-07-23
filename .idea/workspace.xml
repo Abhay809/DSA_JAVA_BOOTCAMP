@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="Sorting Algorithms">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Patterns/src/a1_pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_Patterns/src/a1_pattern.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="Sorting Algorithms" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721669436583</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Sorting Algorithms">
+      <option name="closed" value="true" />
+      <created>1721714689705</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721714689705</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
