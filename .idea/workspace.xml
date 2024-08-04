@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="Sorting Algorithms" />
+    <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="Sorting Algorithms">
+      <change afterPath="$PROJECT_DIR$/11_Recursion/11_Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Recursion/src/a1_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Recursion/src/a2_numbersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Recursion/src/a3_numbersExampleRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Strings/src/a5_operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/9_Strings/src/a5_operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Strings/src/a7_SB.java" beforeDir="false" afterPath="$PROJECT_DIR$/9_Strings/src/a7_SB.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,15 +81,18 @@
     &quot;Application.a1_array.executor&quot;: &quot;Run&quot;,
     &quot;Application.a1_binary_search.executor&quot;: &quot;Run&quot;,
     &quot;Application.a1_ceiling_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_main (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.a1_main.executor&quot;: &quot;Run&quot;,
     &quot;Application.a1_pattern.executor&quot;: &quot;Run&quot;,
     &quot;Application.a2_Comparison.executor&quot;: &quot;Run&quot;,
     &quot;Application.a2_floor_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_numbersExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.a2_order_agnostic_binary_search.executor&quot;: &quot;Run&quot;,
     &quot;Application.a2_search_in_strings.executor&quot;: &quot;Run&quot;,
     &quot;Application.a2_selection_sort.executor&quot;: &quot;Debug&quot;,
     &quot;Application.a3_Insertion_sort.executor&quot;: &quot;Run&quot;,
     &quot;Application.a3_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_numbersExampleRecursion.executor&quot;: &quot;Run&quot;,
     &quot;Application.a3_search_in_range.executor&quot;: &quot;Run&quot;,
     &quot;Application.a3_smallest_letter.executor&quot;: &quot;Run&quot;,
     &quot;Application.a4_cyclic_sort.executor&quot;: &quot;Run&quot;,
@@ -114,20 +126,34 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/Dsa with Java/10_Patterns/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/Dsa with Java/11_Recursion/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.a1_pattern">
-    <configuration name="a1_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a1_pattern" />
-      <module name="10_Patterns" />
+  <component name="RunManager" selected="Application.a7_SB">
+    <configuration name="a3_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a3_Output" />
+      <module name="9_Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a6_performance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a6_performance" />
+    <configuration name="a3_numbersExampleRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a3_numbersExampleRecursion" />
+      <module name="11_Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a4_prettyprinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a4_prettyprinting" />
+      <module name="9_Strings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a5_operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a5_operators" />
       <module name="9_Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,27 +166,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a8_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a8_methods" />
-      <module name="9_Strings" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="a9_palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a9_palindrome" />
-      <module name="9_Strings" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.a1_pattern" />
-        <item itemvalue="Application.a9_palindrome" />
-        <item itemvalue="Application.a8_methods" />
         <item itemvalue="Application.a7_SB" />
-        <item itemvalue="Application.a6_performance" />
+        <item itemvalue="Application.a3_numbersExampleRecursion" />
+        <item itemvalue="Application.a5_operators" />
+        <item itemvalue="Application.a4_prettyprinting" />
+        <item itemvalue="Application.a3_Output" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721714689705</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Sorting Algorithms">
+      <option name="closed" value="true" />
+      <created>1721714827958</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721714827958</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,6 +339,11 @@
           <url>file://$PROJECT_DIR$/10_Patterns/src/a1_pattern.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/11_Recursion/src/a1_main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

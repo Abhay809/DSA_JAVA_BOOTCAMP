@@ -21,6 +21,5 @@ public class a5_operators {
         System.out.println(new Integer(56) + "" + new ArrayList<>()); // this will work because there is one string
 
         System.out.println("a" + 'b');
-
     }
 }
