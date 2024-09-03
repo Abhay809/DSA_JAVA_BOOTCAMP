@@ -7,7 +7,7 @@ public class a1_Linear_search {
 
     }
 
-    static int linear_search(int arr[], int target) {
+    static int linear_search(int[] arr, int target) {
         if (arr.length == 0) {
             return -1;
         }

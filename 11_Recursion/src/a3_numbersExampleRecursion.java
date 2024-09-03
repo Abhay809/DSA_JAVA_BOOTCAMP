@@ -16,6 +16,8 @@ public class a3_numbersExampleRecursion {
 
         // recursion call
         // If you are calling a function again and again, you can treat it as a separate call in the stack
-        print(n+1);                      // recursive call
+        // This is the last statement in function call, it is known as tail recursion
+        // this is the last function call
+        print(n+1);                      // recursive call / recursion
     }
 }

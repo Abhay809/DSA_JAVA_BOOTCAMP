@@ -10,6 +10,5 @@ public class a8_methods {
 
         System.out.println("    Abhay    ".strip());
         System.out.println(Arrays.toString(name.split(" ")));
-
     }
 }

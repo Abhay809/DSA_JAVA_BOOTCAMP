@@ -10,7 +10,7 @@ public class a1_Bubble_Sort{
     }
 
     // void bcz it's not returning anything
-    // bcz space complexity is constant, bcz it's not creating any new array
+    // space complexity is constant, bcz it's not creating any new array
     // boolean swapped bcz it check if for i=0, no swap occur then break the program, the array is already sorted
     static void bubble(int[] arr){
         boolean swapped;
