@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class a2_merge_sort {
     public static void main(String[] args) {
         int[] arr = {5,4,3,2,1};
-        arr = mergeSort(arr);   // updating the array
+        arr = mergeSort(arr);   // now I/m updating the array
         System.out.println(Arrays.toString(arr));
 
     }
@@ -18,6 +18,7 @@ public class a2_merge_sort {
         int mid = arr.length / 2;
         // now we have left and right array
         // copyOfRange - copies the specified range of the specified array into new array, creating a new object
+        // It is actually creating a new object, not changing the original one
         int[] left = mergeSort(Arrays.copyOfRange(arr,0,mid));
         int[] right = mergeSort(Arrays.copyOfRange(arr,mid,arr.length));   //not mid+1,  mid because it is exclusive
 
@@ -60,4 +61,16 @@ public class a2_merge_sort {
         }
         return mix;
     }
+
 }
+// Using Binary Search (complexity is log N)
+// Total number of levels are log N
+// And each level we have N comparisons
+// Total complexity of merge sort is total level * work at every level
+// Merge sort complexity is O(N * logN)
+
+// Space complexity / Auxiliary space in recursion - height of the tree
+// O(N)
+
+// In place : - Instead of making new copy, I'll change the value of pointer
+

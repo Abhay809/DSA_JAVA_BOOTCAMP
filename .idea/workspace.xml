@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="Sorting Algorithms">
-      <change afterPath="$PROJECT_DIR$/11_Recursion/src/a4_fibonaccci_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Recursion/src/a5_BS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Time_and_Space_Complexity/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_quick_sort/14_sorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_quick_sort/src/a1_quick_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_quick_sort/src/a2_merge_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and methods/src/fibonacci_series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Search/5_Linear_Search.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Recursion/src/a3_numbersExampleRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Recursion/src/a3_numbersExampleRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_Strings/src/a8_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/9_Strings/src/a8_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear_Search/Linear_Search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/12_Time_and_Space_Complexity/12_Time_and_Space_Complexity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear_Search/src/a1_Linear_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Search/src/a1_Linear_search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/src/a1_Bubble_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/src/a1_Bubble_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_quick_sort/src/a2_merge_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/14_quick_sort/src/a2_merge_sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,90 +46,90 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Calculator.executor": "Debug",
-    "Application.CaseCheck.executor": "Run",
-    "Application.Conditionals.executor": "Run",
-    "Application.CountNums.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.Greeting.executor": "Run",
-    "Application.Largest.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Questions.executor": "Run",
-    "Application.Reverse.executor": "Run",
-    "Application.RotationCount.executor": "Run",
-    "Application.RowColMatrix.executor": "Run",
-    "Application.Shadowing.executor": "Run",
-    "Application.Sorted_matrix.executor": "Run",
-    "Application.String_example.executor": "Run",
-    "Application.Swap.executor": "Run",
-    "Application.a10_RBS_duplicate_array.executor": "Run",
-    "Application.a13_RowColMatrix.executor": "Run",
-    "Application.a14_Sorted_matrix.executor": "Run",
-    "Application.a1_Bubble_Sort.executor": "Run",
-    "Application.a1_Linear_search (1).executor": "Run",
-    "Application.a1_Linear_search.executor": "Run",
-    "Application.a1_array.executor": "Run",
-    "Application.a1_binary_search.executor": "Run",
-    "Application.a1_ceiling_number.executor": "Run",
-    "Application.a1_main (1).executor": "Run",
-    "Application.a1_main.executor": "Run",
-    "Application.a1_pattern.executor": "Run",
-    "Application.a1_quick_sort.executor": "Run",
-    "Application.a2_Comparison.executor": "Run",
-    "Application.a2_floor_number.executor": "Run",
-    "Application.a2_merge_sort.executor": "Run",
-    "Application.a2_numbersExample.executor": "Run",
-    "Application.a2_order_agnostic_binary_search.executor": "Run",
-    "Application.a2_search_in_strings.executor": "Run",
-    "Application.a2_selection_sort.executor": "Debug",
-    "Application.a3_Insertion_sort.executor": "Run",
-    "Application.a3_Output.executor": "Run",
-    "Application.a3_numbersExampleRecursion.executor": "Run",
-    "Application.a3_search_in_range.executor": "Run",
-    "Application.a3_smallest_letter.executor": "Run",
-    "Application.a4_cyclic_sort.executor": "Run",
-    "Application.a4_fibonaccci_numbers.executor": "Run",
-    "Application.a4_find_minimum.executor": "Run",
-    "Application.a4_prettyprinting.executor": "Run",
-    "Application.a5_BS.executor": "Debug",
-    "Application.a5_missing_number.executor": "Run",
-    "Application.a5_operators.executor": "Run",
-    "Application.a6_array_list.executor": "Run",
-    "Application.a6_find_all_missing.executor": "Run",
-    "Application.a6_infinite_array.executor": "Run",
-    "Application.a6_num_disappeared_in_array.executor": "Run",
-    "Application.a6_performance.executor": "Run",
-    "Application.a6_search_in_2Darray.executor": "Run",
-    "Application.a7_SB.executor": "Run",
-    "Application.a7_even_digits.executor": "Run",
-    "Application.a7_find_duplicate.executor": "Run",
-    "Application.a8_max_wealth.executor": "Run",
-    "Application.a8_methods.executor": "Run",
-    "Application.a9_RBS.executor": "Run",
-    "Application.a9_palindrome.executor": "Run",
-    "Application.ceiling_number.executor": "Run",
-    "Application.change_value.executor": "Run",
-    "Application.fibonacci_series.executor": "Debug",
-    "Application.function_overloading.executor": "Run",
-    "Application.infinite_array.executor": "Run",
-    "Application.practise.executor": "Run",
-    "Application.scope.executor": "Run",
-    "Application.sum.executor": "Run",
-    "Application.sum2.executor": "Run",
-    "Application.variable_length_argument.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/Dsa with Java/14_quick_sort/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CaseCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shadowing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorted_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a10_RBS_duplicate_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a13_RowColMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a14_Sorted_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_Bubble_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_Linear_search (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_Linear_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_ceiling_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a1_quick_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_Comparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_floor_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_merge_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_numbersExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_order_agnostic_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_search_in_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a2_selection_sort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.a3_Insertion_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_numbersExampleRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_search_in_range.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3_smallest_letter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a4_cyclic_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a4_fibonaccci_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a4_find_minimum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a4_prettyprinting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a5_BS.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.a5_missing_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a5_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_array_list.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_find_all_missing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_infinite_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_num_disappeared_in_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_performance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a6_search_in_2Darray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a7_SB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a7_even_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a7_find_duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a8_max_wealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a8_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a9_RBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a9_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ceiling_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.change_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonacci_series.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.function_overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.infinite_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variable_length_argument.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/Dsa with Java/14_quick_sort/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.a2_merge_sort">
+}</component>
+  <component name="RunManager" selected="Application.a3_MergeSortInPlace">
     <configuration name="a1_Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a1_Bubble_Sort" />
       <module name="8_Sorting" />
@@ -164,6 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="a3_MergeSortInPlace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a3_MergeSortInPlace" />
+      <module name="14_sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="a4_fibonaccci_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a4_fibonaccci_numbers" />
       <module name="11_Recursion" />
@@ -171,20 +165,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a7_even_digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a7_even_digits" />
-      <module name="5_Linear_Search" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.a3_MergeSortInPlace" />
         <item itemvalue="Application.a2_merge_sort" />
         <item itemvalue="Application.a1_quick_sort" />
         <item itemvalue="Application.a4_fibonaccci_numbers" />
         <item itemvalue="Application.a1_Bubble_Sort" />
-        <item itemvalue="Application.a7_even_digits" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722762864668</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Sorting Algorithms">
+      <option name="closed" value="true" />
+      <created>1725385832479</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725385832479</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
