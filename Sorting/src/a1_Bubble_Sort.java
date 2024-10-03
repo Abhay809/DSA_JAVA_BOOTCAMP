@@ -18,7 +18,7 @@ public class a1_Bubble_Sort{
         for (int i=0; i< arr.length; i++){
             swapped = false;
             //for each step max item will come at the last respective index
-            for(int j =1; j< arr.length-i;j++){
+            for(int j =1; j< arr.length-i;j++){    // *
                 // or for(int j =1; j<= arr.length-i-1;j++)
                 // swap it if the item is smaller than the previous item
                 if(arr[j]<arr[j-1]){
@@ -36,4 +36,10 @@ public class a1_Bubble_Sort{
     }
 }
 
-// time complexity - o(N)
+// time complexity - o(N) - best case - when array is already sorted
+// O(n^2) - worst and average case - when outer loop run O(N) times and inner also
+
+// for each pass O(N) comparison done
+
+// space complexity / Auxiliary space = O(1)
+// because it is not taking any extra space

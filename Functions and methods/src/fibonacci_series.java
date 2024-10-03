@@ -1,6 +1,6 @@
 public class fibonacci_series {
     public static void main(String[] args) {
-        fibo(6);
+        fibo(7);
     }
     static void fibo(int n){
         int num1 = 0;
@@ -12,7 +12,7 @@ public class fibonacci_series {
             num2 = num3;
 
         }
-//        System.out.println(num2);    // it will give nth fibonacci number
+        System.out.println(num2);    // it will give nth fibonacci number
 
     }
 }

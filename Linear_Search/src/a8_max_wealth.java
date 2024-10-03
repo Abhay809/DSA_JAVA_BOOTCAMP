@@ -1,3 +1,4 @@
+// *
 public class a8_max_wealth {
     public static void main(String[] args) {
         int[][] accounts = {

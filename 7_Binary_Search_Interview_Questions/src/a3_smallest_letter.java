@@ -1,3 +1,4 @@
+// *
 // Find Smallest Letter Greater Than Target
 public class a3_smallest_letter {
     public static void main(String[] args) {

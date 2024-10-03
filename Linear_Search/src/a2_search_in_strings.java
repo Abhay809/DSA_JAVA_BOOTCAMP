@@ -3,8 +3,8 @@ import java.util.Arrays;
 public class a2_search_in_strings {
     public static void main(String[] args) {
         String name= "harry brook";
-        char target = 'z';
-//        System.out.println(search(name,target));
+        char target = 'r';
+        System.out.println(search(name,target));
         System.out.println(Arrays.toString(name.toCharArray()));
 
 
