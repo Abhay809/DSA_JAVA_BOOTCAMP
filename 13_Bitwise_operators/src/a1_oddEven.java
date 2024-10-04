@@ -1,4 +1,4 @@
-class oddEven{
+class a1_oddEven {
     public static void main(String[] args){
 //        int n = 68;
 //        if((n&1) == 1) System.out.println("odd number");

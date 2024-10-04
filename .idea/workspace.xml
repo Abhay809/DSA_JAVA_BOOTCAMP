@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca223d09-6db7-4603-830d-5ed2a9e35880" name="Changes" comment="Sorting Algorithms">
-      <change afterPath="$PROJECT_DIR$/13_Bitwise_operators/13_Bitwise_operators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_Bitwise_operators/src/oddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Bitwise_operators/src/a2_findUnique.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a3_smallest_letter.java" beforeDir="false" afterPath="$PROJECT_DIR$/7_Binary_Search_Interview_Questions/src/a3_smallest_letter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions and methods/src/fibonacci_series.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions and methods/src/fibonacci_series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear_Search/src/a2_search_in_strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Search/src/a2_search_in_strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear_Search/src/a8_max_wealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Search/src/a8_max_wealth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/src/a1_Bubble_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/src/a1_Bubble_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_Bitwise_operators/src/oddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/13_Bitwise_operators/src/a1_oddEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\lenovo\IdeaProjects\Dsa with Java\htmlReport" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,6 +84,7 @@
     "Application.a1_pattern.executor": "Run",
     "Application.a1_quick_sort.executor": "Run",
     "Application.a2_Comparison.executor": "Run",
+    "Application.a2_findUnique.executor": "Debug",
     "Application.a2_floor_number.executor": "Run",
     "Application.a2_merge_sort.executor": "Run",
     "Application.a2_numbersExample.executor": "Debug",
@@ -100,7 +98,7 @@
     "Application.a3_search_in_range.executor": "Run",
     "Application.a3_smallest_letter.executor": "Run",
     "Application.a4_cyclic_sort.executor": "Run",
-    "Application.a4_fibonaccci_numbers.executor": "Run",
+    "Application.a4_fibonaccci_numbers.executor": "Debug",
     "Application.a4_find_minimum.executor": "Run",
     "Application.a4_prettyprinting.executor": "Run",
     "Application.a5_BS.executor": "Debug",
@@ -138,10 +136,17 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.oddEven">
-    <configuration name="a2_floor_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a2_floor_number" />
-      <module name="7_Binary_Search_Interview_Questions" />
+  <component name="RunManager" selected="Application.a2_findUnique">
+    <configuration name="a1_oddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a1_oddEven" />
+      <module name="13_Bitwise_operators" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a2_findUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2_findUnique" />
+      <module name="13_Bitwise_operators" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,9 +158,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a8_max_wealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a8_max_wealth" />
-      <module name="5_Linear_Search" />
+    <configuration name="a4_fibonaccci_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a4_fibonaccci_numbers" />
+      <module name="11_Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,20 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oddEven" />
-      <module name="13_Bitwise_operators" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.oddEven" />
+        <item itemvalue="Application.a2_findUnique" />
         <item itemvalue="Application.fibonacci_series" />
+        <item itemvalue="Application.a4_fibonaccci_numbers" />
+        <item itemvalue="Application.a1_oddEven" />
         <item itemvalue="Application.a3_smallest_letter" />
-        <item itemvalue="Application.a2_floor_number" />
-        <item itemvalue="Application.a8_max_wealth" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725622661815</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Sorting Algorithms">
+      <option name="closed" value="true" />
+      <created>1727959714288</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727959714288</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,65 +358,82 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/Conditionals.java</url>
           <line>47</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/6_Binary_Search/src/a2_order_agnostic_binary_search.java</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Practise/src/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/10_Patterns/src/a1_pattern.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/11_Recursion/src/a1_main.java</url>
           <line>5</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/9_Strings/src/a4_prettyprinting.java</url>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/11_Recursion/12_Time and Space Complexity/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Linear_Search/src/a6_search_in_2Darray.java</url>
           <line>2</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/14_quick_sort/src/a1_quick_sort.java</url>
           <line>12</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Linear_Search/src/a8_max_wealth.java</url>
           <line>1</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Functions and methods/src/fibonacci_series.java</url>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/16_Bitwise_operators/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Functions and methods/src/fibonacci_series.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/Functions and methods/src/fibonacci_series.java</url>
+          <line>1</line>
+          <properties class="fibonacci_series" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fibonacci_java$a2_findUnique.ic" NAME="a2_findUnique Coverage Results" MODIFIED="1728062888084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
